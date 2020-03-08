@@ -1,4 +1,5 @@
 class Stack:
+    '''LIFO implimentation of a list, i.e data can be accessed from the last not any othe place'''
     def __init__(self):
         self.items = []
     

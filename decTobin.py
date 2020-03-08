@@ -16,6 +16,7 @@ print bin(2354)
 print bin(2) is decToBinary(2)
 print bin(2) == decToBinary(2)
 
+#the reverse \m/
 def baseConverter(decNumber,base):
     digits = "0123456789ABCDEF"
 
