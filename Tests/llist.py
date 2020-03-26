@@ -65,7 +65,7 @@ class LinkedList:
         return count
 
     def lPalin(self, head = None):
-            he ad = self.head
+            head = self.head
             rev = None
             slow = fast = head
             #first, reverse the first half and find the middle
